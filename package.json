@@ -21,9 +21,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ /issues"
+    "url": "https://github.com/mkaski/whatsapp-messages-parser/issues"
   },
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/mkaski/whatsapp-messages-parser/",
   "dependencies": {},
   "devDependencies": {
     "mocha": "latest"
