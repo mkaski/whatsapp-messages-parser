@@ -1,0 +1,31 @@
+{
+  "name": "whatsapp-messages-parser",
+  "version": "0.1.0",
+  "description": "parse WhatsApp logs",
+  "main": "index.js",
+  "keywords": [
+    "whatsapp",
+    "messages",
+    "log",
+    "parser"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": {
+    "name": "Matias Kaskimies",
+    "email": ""
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ /issues"
+  },
+  "homepage": "https://github.com/",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "latest"
+  }
+}
